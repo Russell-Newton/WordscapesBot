@@ -5,6 +5,7 @@ This program solves wordscapes levels faster than a human. It runs in the foregr
 
 ## WIP:
 - Automatic transition between levels
+- Good instructions
 
 ## Requirements:
 - BlueStacks with Wordscapes
