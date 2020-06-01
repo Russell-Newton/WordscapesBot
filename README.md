@@ -8,5 +8,5 @@ This program solves wordscapes levels faster than a human. It runs in the foregr
 
 ## Requirements:
 - BlueStacks with Wordscapes
-- Google Tesseract-OCR, added to PATH
+- Google Tesseract-OCR, added to PATH (installer in project files)
 - Windows machine
